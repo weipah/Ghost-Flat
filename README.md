@@ -1,6 +1,10 @@
 # Ghost-Flat
 
 Ghost-Flat Theme is a Flat theme for Ghost Blog.
+It is originally written by fabienwang, but he/she seems to have deleted his/her Github account.
+
+I really liked the theme and so I decided to update it for the Ghost 1.0 release.
+
 It's based on a modified version of [Bootflat](http://bootflat.github.io/).
 
 Its main feature is the timeline, which is responsive.

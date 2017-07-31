@@ -1,10 +1,14 @@
 {
   "name": "Ghost-Flat",
   "private": false,
-  "version": "0.3.0",
-  "description": "Ghost theme based on Bootflat",
-  "author": "fabienwang <fabienwang@eliteheberg.fr>",
-  "homepage": "http://github.com/fabienwang/ghost-flat",
+  "version": "0.3.1",
+  "description": "Ghost theme based on Bootflat originally by fabienwang",
+  "author": {
+    "name": "Mark Lenhardt",
+    "email": "github@evilism.com",
+    "url": "https://github.com/weipah/"
+  },
+  "homepage": "https://github.com/weipah/Ghost-Flat",
   "keywords": [
     "mobile",
     "html5",
@@ -17,12 +21,12 @@
     "ui"
   ],
   "bugs": {
-    "url": "https://github.com/fabienwang/ghost-flat/issues"
+    "url": "https://github.com/weipah/Ghost-Flat/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabienwang/ghost-flat/ghost-flat.git"
+    "url": "https://github.com/weipah/Ghost-Flat/ghost-flat.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

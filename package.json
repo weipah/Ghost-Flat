@@ -1,12 +1,15 @@
 {
-  "name": "Ghost-Flat",
+  "name": "ghost-flat",
   "private": false,
   "version": "0.3.1",
   "description": "Ghost theme based on Bootflat originally by fabienwang",
   "author": {
-    "name": "Mark Lenhardt",
+    "name": "mark lenhardt",
     "email": "github@evilism.com",
     "url": "https://github.com/weipah/"
+  },
+  "config": {
+    "posts_per_page": 5
   },
   "homepage": "https://github.com/weipah/Ghost-Flat",
   "keywords": [
